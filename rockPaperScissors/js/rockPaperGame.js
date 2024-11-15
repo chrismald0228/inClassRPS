@@ -24,9 +24,9 @@ const ui = {
 
 const game = {
     rules: [
-        { id: 0, item: 'rock', beats: 'scissors', img: 'rock.PNG' },
-        { id: 1, item: 'paper', beats: 'rock', img: 'paper.PNG' },
-        { id: 2, item: 'scissors', beats: 'paper', img: 'scissors.PNG' }
+        { id: 0, item: 'rock', beats: 'scissors', img: 'rock.png' },
+        { id: 1, item: 'paper', beats: 'rock', img: 'paper.png' },
+        { id: 2, item: 'scissors', beats: 'paper', img: 'scissors.png' }
     ],
     state: {
         wins: 0,
